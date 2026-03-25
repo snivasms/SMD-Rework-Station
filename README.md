@@ -22,6 +22,16 @@ programmable airflow..</i></b>
 </p>
 
 ---
+
+## 🌐 Project Links
+
+**Hackaday (Development Logs):**  
+https://hackaday.io/project/205300
+
+**Instructables (Step-by-step Build Guide):**  
+https://www.instructables.com/DIY-ESP32-SMD-Rework-Station-With-PID-Control-and-/
+
+---
 <a id="contents" ></a>
 ## Contents
 
