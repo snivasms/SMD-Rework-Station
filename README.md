@@ -31,8 +31,8 @@ https://hackaday.io/project/205300
 **Instructables (Step-by-step Build Guide):**  
 https://www.instructables.com/DIY-ESP32-SMD-Rework-Station-With-PID-Control-and-/
 
-**YouTube ( Demo video ):**
-https://www.youtube.com/watch?v=VaSrfSvtFI0&t=310s
+**YouTube ( Demo video ):**  
+https://www.youtube.com/watch?v=VaSrfSvtFI0
 
 ---
 <a id="contents" ></a>
