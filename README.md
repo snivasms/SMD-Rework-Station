@@ -33,6 +33,8 @@ https://www.instructables.com/DIY-ESP32-SMD-Rework-Station-With-PID-Control-and-
 
 **YouTube ( Demo video ):**  
 https://www.youtube.com/watch?v=VaSrfSvtFI0
+Part 2 https://youtu.be/XQwfBnrcIpk
+
 
 ---
 <a id="contents" ></a>
